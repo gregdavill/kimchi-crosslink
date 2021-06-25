@@ -1,0 +1,14 @@
+(module KIMCHI_MICRO (layer F.Cu) (tedit 60D2722C)
+  (attr virtual)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value KIMCHI_MICRO (at -0.01 2.21) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (model ${KIPRJMOD}/kimchi_ulid.pretty/kimchi_micro.step
+    (offset (xyz 0 0 4.7))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 0))
+  )
+)
