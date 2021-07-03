@@ -485,7 +485,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "kimchi_ulid.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
